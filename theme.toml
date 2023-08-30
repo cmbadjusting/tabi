@@ -99,12 +99,12 @@ separator = "•"
 
 
 menu = [
-    { name = "About", url = "$BASE_URL/about" },
-    { name = "Services", url = "$BASE_URL/services" },
-    { name = "FAQs", url = "$BASE_URL/faqs" },
-    { name = "Contact", url = "$BASE_URL/contact" },
-    { name = "Case Study", url = "$BASE_URL/case-study" },
-    { name = "References", url = "$BASE_URL/references" },
+    { name = "About", url = "/about" },
+    { name = "Services", url = "/services" },
+    { name = "FAQs", url = "/faqs" },
+    { name = "Contact", url = "/contact" },
+    { name = "Case Study", url = "/case-study" },
+    { name = "References", url = "/references" },
 ]
 
 # The RSS icon will be shown if (1) it's enabled and (2) the following variable is set to true.
