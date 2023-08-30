@@ -97,11 +97,14 @@ separator = "•"
 # This header image is used for SEO. For example if you were to share an image via Messenger/Instagram/Twitter a preview picture is also presented
 # headerImage = ""
 
+
 menu = [
-    { name = "blog", url = "blog", trailing_slash = true },
-    { name = "archive", url = "archive", trailing_slash = true },
-    { name = "tags", url = "tags", trailing_slash = true },
-    { name = "projects", url = "projects", trailing_slash = true },
+    { name = "About", url = "$BASE_URL/about" },
+    { name = "Services", url = "$BASE_URL/services" },
+    { name = "FAQs", url = "$BASE_URL/faqs" },
+    { name = "Contact", url = "$BASE_URL/contact" },
+    { name = "Case Study", url = "$BASE_URL/case-study" },
+    { name = "References", url = "$BASE_URL/references" },
 ]
 
 # The RSS icon will be shown if (1) it's enabled and (2) the following variable is set to true.
