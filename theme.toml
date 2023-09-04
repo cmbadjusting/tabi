@@ -98,14 +98,14 @@ separator = "•"
 # headerImage = ""
 
 
-menu = [
-    { name = "About", url = "/about" },
-    { name = "Services", url = "/services" },
-    { name = "FAQs", url = "/faqs" },
-    { name = "Contact", url = "/contact" },
-    { name = "Case Study", url = "/case-study" },
-    { name = "References", url = "/references" },
-]
+# menu = [
+#     { name = "About", url = "/about" },
+#     { name = "Services", url = "/services" },
+#     { name = "FAQs", url = "/faqs" },
+#     { name = "Contact", url = "/contact" },
+#     { name = "Case Study", url = "/case-study" },
+#     { name = "References", url = "/references" },
+# ]
 
 # The RSS icon will be shown if (1) it's enabled and (2) the following variable is set to true.
 feed_icon = true
